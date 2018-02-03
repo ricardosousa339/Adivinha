@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="textview_escolha_numero_0_10">Choose a number between 0 and 10</string>
+    <string name="botao_jogar">Play</string>
+    <string name="texto_numero">"No number "</string>
+    <string name="numero_escolhido">Choosed number:</string>
+</resources>
